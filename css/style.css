@@ -1,0 +1,25 @@
+/*выравнивание по центру*/
+.kartinka {
+text-align: center;
+}
+*{
+background-color: WhiteSmoke; 
+ }
+div{
+width: 600px;   /* ширина */
+height: 800px; /* высота */
+padding: 30px 20px 30px 50px;/* отступы внутри блока*/
+font-family: "Arial";
+
+}
+
+h1 {
+text-align:center;
+
+}
+
+.about{
+color:grey;
+}
+.number{
+margin-left: 30px;}
